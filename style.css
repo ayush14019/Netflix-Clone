@@ -13,15 +13,14 @@ body {
   zoom: 100%;
   background-position: center center;
   background-size: max(1200px, 100vw);
-  /* background-size: cover; */
+
   background-repeat: no-repeat;
-  /* height: 70vh; */
+
   height: 100vh;
   position: relative;
 }
 
 .main .box {
-  /* height: 70vh; */
   height: 100vh;
   width: 100%;
   opacity: 0.69;
@@ -35,7 +34,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* height: 62px; */
+
   height: 100px;
 }
 
@@ -53,7 +52,7 @@ nav button {
 
 .hero {
   font-family: "Martel Sans", sans-serif;
-  /* height: calc(100% - 62px); */
+
   height: calc(100% - 100px);
   display: flex;
   align-items: center;
@@ -184,7 +183,7 @@ select option:hover {
 }
 
 .secImg img {
-  /* width: 642px; */
+  
   width: 555px;
   position: relative;
   z-index: 10;
@@ -195,9 +194,7 @@ select option:hover {
   position: absolute;
   top: 51px;
   right: 0;
-  /* width: 556px; */
-  /* width: 555px;
-  height: 412px; */
+
   width: 481px;
   height: 432px;
 }
@@ -256,7 +253,7 @@ section.first > div :nth-child(2) {
   font-size: 15px;
   font-style: normal;
   font-weight: 400;
-  /* height: calc(100% - 62px); */
+
   height: calc(100% - 100px);
   display: flex;
   align-items: center;
