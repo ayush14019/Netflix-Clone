@@ -1,1 +1,1 @@
-#Simple Netflix Clone
+Simple Netflix Clone
