@@ -288,11 +288,13 @@ footer {
   }
 
   .secImg img {
-    width: 305px;
+    width: 354px;
+    height: 324px;
   }
 
   .secImg video {
     width: 305px;
+    height: 278px;
   }
 
   .hero > :nth-child(1) {
